@@ -21,3 +21,15 @@ p.contacto{
 	text-align: right;
 	color: #894135;
 }
+
+#Tlf {
+	color: green;
+}
+
+#Mail {
+	color: brown;
+}
+
+#Dir {
+	color: grey;
+}
